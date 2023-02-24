@@ -1,0 +1,9 @@
+name: Timer
+version: '${project.version}'
+main: me.overlight.timer.Timer
+authors: [ _OverLight_ ]
+description: Timers in server
+website: http://daneshian.ir/
+commands:
+  timer:
+    aliases: []
